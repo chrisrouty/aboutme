@@ -1,0 +1,31 @@
+{
+  "name": "with-redux-wrapper",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "analyze": "cross-env ANALYZE=true next build",
+    "analyze:server": "cross-env BUNDLE_ANALYZE=server next build",
+    "analyze:browser": "cross-env BUNDLE_ANALYZE=browser next build"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.10.6",
+    "dotenv": "^8.2.0",
+    "styled-components": "^4.4.1",
+    "styled-reset": "^4.0.7",
+    "next": "latest",
+    "next-redux-wrapper": "latest",
+    "next-redux-saga": "^4.1.2",
+    "next-images": "^1.2.0",
+    "next-compose": "^0.0.2",
+    "@next/bundle-analyzer": "^9.1.4",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-redux": "5.0.7",
+    "redux": "4.0.0",
+    "redux-devtools-extension": "2.13.2",
+    "redux-thunk": "2.2.0"
+  },
+  "license": "ISC"
+}
