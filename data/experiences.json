@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bayday Community",
+    "nameDesc": "Marketplace de BD en ligne",
+    "logo": "img_logo",
+    "tags": "Symfony 4, Twig, ReactJs, ES6, Sass, Figma, Material Component, Redmine,  IC, Git",
+    "desc": "Au poste de Développeur front-end et remplaçant Web designer. J’ai eu l’opportunitée de concevoir la plateforme au sein d’une fine équipe de développeur.",
+    "atDate": "Févr. 2019",
+    "dueDate": "Déc. 2020",
+    "duration": "11 mois"
+  },
+  {
+    "name": "Awakit",
+    "nameDesc": "Agence de communication digitale",
+    "logo": "img_logo",
+    "tags": "Symfony 2-3, Twig, Jquery, bootstrap, Less & Sass, Redmine, IC, Git",
+    "desc": "Au poste de Webmaster / Développeur front-end et également assistant événementiel. J’ai pu acquérir de forte compétences front-end.",
+    "atDate": "Janv. 2015",
+    "dueDate": "Déc. 2018",
+    "duration": "4 ans"
+  },
+  {
+    "name": "FREELANCE",
+    "nameDesc": "Concepteur web",
+    "logo": "img_logo",
+    "tags": "HTML5, Less, jQuery, Prestashop, Wordpress, Php5 pdo, Mysql ",
+    "desc": "A mon compte durant une certaine période, qui m’a permis de découvrir ",
+    "atDate": "Avr. 2013",
+    "dueDate": "Oct. 2014",
+    "duration": "9 mois"
+  },
+  {
+    "name": "hello mojito",
+    "nameDesc": "Agence de Web",
+    "logo": "img_logo",
+    "tags": "HTML5, CSS3, jQuery, Suite Adobe",
+    "desc": "Au poste de Web designer / Intégrateur",
+    "atDate": "Avr. 2013",
+    "dueDate": "Oct. 2014",
+    "duration": "9 mois"
+  }
+]

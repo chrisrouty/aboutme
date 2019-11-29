@@ -10,22 +10,25 @@
     "analyze:browser": "cross-env BUNDLE_ANALYZE=browser next build"
   },
   "dependencies": {
+    "@next/bundle-analyzer": "^9.1.4",
     "babel-plugin-styled-components": "^1.10.6",
     "dotenv": "^8.2.0",
-    "styled-components": "^4.4.1",
-    "styled-reset": "^4.0.7",
+    "framer-motion": "^1.6.17",
+    "gsap": "^3.0.1",
     "next": "latest",
-    "next-redux-wrapper": "latest",
-    "next-redux-saga": "^4.1.2",
-    "next-images": "^1.2.0",
     "next-compose": "^0.0.2",
-    "@next/bundle-analyzer": "^9.1.4",
+    "next-images": "^1.2.0",
+    "next-redux-saga": "^4.1.2",
+    "next-redux-wrapper": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-redux": "5.0.7",
     "redux": "4.0.0",
     "redux-devtools-extension": "2.13.2",
-    "redux-thunk": "2.2.0"
+    "redux-thunk": "2.2.0",
+    "styled-components": "^4.4.1",
+    "styled-reset": "^4.0.7",
+    "svg-morpheus": "^0.3.0"
   },
   "license": "ISC"
 }
